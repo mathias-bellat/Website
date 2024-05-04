@@ -80,16 +80,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Sciences de l'Informatique 
-          tag: SI
+        - name: Archéo-informatique
+          tag: Archéo-informatique
         - name: Micromorphologie
-          tag: Micro
+          tag: Micromorphologie
         - name: Proche-Orient
-          tag: PO
-        - name: Geoarchéologie
-          tag: Geo      
-        - name: Autres
-          tag: Autres
+          tag: Proche-Orient
+        - name: Géoarchéologie
+          tag: Géoarchéologie
     
     design:
       columns: '2'
