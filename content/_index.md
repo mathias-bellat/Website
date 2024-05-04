@@ -95,6 +95,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
+    id: publications
     content:
       title: Publications récentes
       text: |-
