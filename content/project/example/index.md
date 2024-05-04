@@ -2,8 +2,8 @@
 title: Micromorphologie architecturale au Proche-Orient Néolithique
 summary: Projet sur l'architecture en terre crue Néolihtique au Proche-Orient et son étude par le biais de la micromorphologie et des études archéométriques.
 tags:
-  - PO
-  - Micro 
+  - Proche-Orient
+  - Micromorphologie
 date: '2024-05-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
