@@ -16,8 +16,8 @@ main:
     url: '#contact'
     weight: 40
   - name: CV
-     url: uploads/CV_update_Mathias.pdf
-      weight: 50
+    url: uploads/CV_update_Mathias.pdf
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
