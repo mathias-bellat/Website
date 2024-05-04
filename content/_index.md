@@ -95,7 +95,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications récentes
+      title: Publications
       text: |-
         {{% callout note %}}
         Rechercher le contenu approprié avec [filter les publications](./publication/).
@@ -103,7 +103,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation 
